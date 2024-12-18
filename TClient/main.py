@@ -27,7 +27,7 @@ def get_weather():
 root = tk.Tk()
 root.title("Прогноз погоды")  
 
-root.geometry("450x550") 
+root.geometry("400x820") 
 root.resizable(False, False)  
 root.eval('tk::PlaceWindow . center')  
 

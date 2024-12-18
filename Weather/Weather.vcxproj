@@ -133,7 +133,6 @@
     <ClInclude Include="httplib.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="styles.css" />
     <None Include="widget_template.html" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

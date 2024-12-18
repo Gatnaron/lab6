@@ -26,6 +26,5 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="widget_template.html" />
-    <None Include="styles.css" />
   </ItemGroup>
 </Project>
