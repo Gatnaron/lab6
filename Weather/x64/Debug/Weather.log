@@ -1,0 +1,5 @@
+﻿  server.cpp
+D:\Study\7\interface\6\Weather-master\Weather\server.cpp(82,30): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Weather.vcxproj -> D:\Study\7\interface\6\Weather-master\x64\Debug\Weather.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
